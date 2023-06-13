@@ -1,9 +1,9 @@
 export default {
-  documentation_name: 'Peercoin University',
+  documentation_name: 'ReddCoin University',
 
   allow_topbar_link: true,
-  topbar_link_label: 'Peercoin University',
-  topbar_link_url: 'https://github.com/peercoin/PeercoinUniversity',
+  topbar_link_label: 'ReddCoin University',
+  topbar_link_url: 'https://github.com/reddcoin-project/ReddcoinUniversity',
 
   allow_font_size_control: true,
 

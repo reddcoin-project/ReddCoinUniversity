@@ -1,9 +1,9 @@
 {
-  "name": "peercoin-doc",
-  "description": "Peercoin documentation",
-  "author": "Peercoin",
+  "name": "reddcoin-doc",
+  "description": "Reddcoin documentation",
+  "author": "Reddcoin",
   "version": "0.1.1",
-  "repository": "https://github.com/peercoin/docs.git",
+  "repository": "https://github.com/reddcoin-project/reddcoinuniversity.git",
   "scripts": {
     "start": "brunch watch --server -n",
     "build": "echo 'Generating production optimized code, this may take a while...\n' && brunch build --production && echo 'You can find your production files at /public folder.\n\n'",

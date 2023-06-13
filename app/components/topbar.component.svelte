@@ -6,7 +6,7 @@
     </div>
 
     <div class="logo" on:click="scrollTop()">
-      <img src="img/logo.svg" alt="Peercoin Docs">
+      <img src="img/logo.svg" alt="Reddcoin Docs">
     </div>
 
     {{#if settings.allow_font_size_control}}
